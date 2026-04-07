@@ -13,6 +13,5 @@ public class Main {
 
         tm1.run();
 
-        System.out.println();
     }
 }
